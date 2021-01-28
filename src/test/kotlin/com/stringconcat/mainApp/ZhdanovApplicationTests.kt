@@ -1,4 +1,4 @@
-package com.stringconcat.zhdanov
+package com.stringconcat.mainApp
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

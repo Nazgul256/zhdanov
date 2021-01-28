@@ -1,4 +1,4 @@
-package com.stringconcat.zhdanov
+package com.stringconcat.mainApp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
