@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController
 class Controller {
     @GetMapping("hello")
     fun getHelloWorld():String{
-        return "Hello world!"
+        return "{message:\"Hello it's second version deployed over CI\"}"
     }
 }
